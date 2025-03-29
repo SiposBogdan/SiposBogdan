@@ -31,23 +31,23 @@
 
 ## 📌 Projects
 
-### 🎯 [Interactive Shooting Target (Arduino)]((https://github.com/SiposBogdan/Nerf-Target-Practice))  
+### 🎯 [Interactive Shooting Target (Arduino)](https://github.com/SiposBogdan/Nerf-Target-Practice)  
 An interactive shooting target using **Arduino Mega 2560**, **Servo Motor**, **LCD Display**, **Bluetooth Module HC-05**, and **Analog Sensors**.  
 📌 Topics: Timer setup, accuracy tracking, real-time score display.
 
-### 🖥️ [Video Game Store Management System (Java Desktop App)]((https://github.com/SiposBogdan/DesktopApp))  
+### 🖥️ [Video Game Store Management System (Java Desktop App)](https://github.com/SiposBogdan/DesktopApp)  
 A Java-based **desktop application** following **Layered Architecture**, **SOLID principles**, and **OOP paradigms**.  
 📌 Topics: Video game management, employee & customer database, administrative tools.
 
-### 🏅 [Sports Partner-Finding App]((https://github.com/SiposBogdan/WebApp--Find-Sports-Partners))  
+### 🏅 [Sports Partner-Finding App](https://github.com/SiposBogdan/WebApp--Find-Sports-Partners) 
 A web and mobile application connecting **sports enthusiasts** and **facilitating group activities**.  
 📌 Topics: Sports location discovery, group creation/joining, user profiles & ratings.
 
-### 🖱️ [FPGA Mouse Click Counter]((https://github.com/SiposBogdan/FPGA-Mouse-Click-Counter))  
+### 🖱️ [FPGA Mouse Click Counter](https://github.com/SiposBogdan/FPGA-Mouse-Click-Counter) 
 Counts mouse clicks using an **FPGA setup on Basys 3 board**.  
 📌 Topics: VHDL, FSMs, hardware design.
 
-### 🎮 [3D Graphics Scene with OpenGL]((https://github.com/SiposBogdan/3D-Graphics-Scene-OpenGL))  
+### 🎮 [3D Graphics Scene with OpenGL](https://github.com/SiposBogdan/3D-Graphics-Scene-OpenGL)
 An interactive **3D scene** built using **OpenGL and C++**.  
 📌 Topics: 3D rendering, scene management, graphics pipeline.
 
@@ -58,4 +58,4 @@ An interactive **3D scene** built using **OpenGL and C++**.
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/siposbogdan)  
-- ✉️ Email: siposbogdan17@gmailcom 
+- ✉️ Email: siposbogdan17@gmail.com 
