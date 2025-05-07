@@ -6,7 +6,7 @@
 ## 📝 About Me
 
 - 🎓 I’m a CS student passionate about building software that matters  
-- 🔭 Currently working on FPGA, C++, and Java-based projects   
+- 🔭 Currently working on FPGA, C++, Python, C# and Java-based projects   
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siposbogdan)  
 - 💼 Actively seeking **internship opportunities** in software or embedded development  
 
